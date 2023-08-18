@@ -68,6 +68,9 @@ Feel free to reach out through 📧 Email: solomonwolemail@gmail.com, and let's 
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="12" />
+
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" height="40" alt="dart logo"  />
+  <img width="12" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
@@ -79,8 +82,16 @@ Feel free to reach out through 📧 Email: solomonwolemail@gmail.com, and let's 
   <img width="12" />
 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase"  />
-  <img width="12" />
-  
+   <img width="12" />
+
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma"  />
+   <img width="12" />
+
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="firebase"  />
+   <img width="12" />
+
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="firebase"  />
+   <img width="12" />
 
 </div>
 
