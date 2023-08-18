@@ -72,7 +72,7 @@ Feel free to reach out through 📧 Email: solomonwolemail@gmail.com, and let's 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" height="40" alt="dart logo"  />
   <img width="12" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vs code logo"  />
@@ -80,15 +80,7 @@ Feel free to reach out through 📧 Email: solomonwolemail@gmail.com, and let's 
 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="andriod studio"  />
   <img width="12" />
-  
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase"  />
-  <img width="12" />
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma"  />
-  <img width="12" />
-
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="github"  />
-  <img width="12" />
 
 </div>
 
@@ -101,5 +93,12 @@ Feel free to reach out through 📧 Email: solomonwolemail@gmail.com, and let's 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
