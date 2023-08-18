@@ -80,18 +80,15 @@ Feel free to reach out through 📧 Email: solomonwolemail@gmail.com, and let's 
 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="andriod studio"  />
   <img width="12" />
+  
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase"  />
+  <img width="12" />
 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase"  />
-   <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma"  />
+  <img width="12" />
 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma"  />
-   <img width="12" />
-
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="firebase"  />
-   <img width="12" />
-
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="firebase"  />
-   <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="github"  />
+  <img width="12" />
 
 </div>
 
