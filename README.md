@@ -68,7 +68,7 @@ I build projects to demonstrate how production systems are structured, not just 
 
 ## Let’s Connect
 
-- LinkedIn: https://www.linkedin.com/in/solomon-adewole-b63a27246/
+- LinkedIn: https://www.linkedin.com/in/solomonwole/
 - Email: solomonwolemail@gmail.com
 
 I’m open to opportunities, collaboration, and conversations around full-stack development and backend engineering.
