@@ -27,80 +27,77 @@
 ###
 
 ###
+<h1 align="center">Hi, I'm Solomon Adewole</h1>
 
-<h1 align="center">Hey there 👋</h1>
+<p align="center">
+Software Developer focused on building secure, scalable web applications with clean architecture and real-world best practices.
+</p>
 
-###
+---
 
-<h3 align="left">About Me</h3>
+## About Me
 
-###
+I’m a software developer with hands-on experience building **production-style web APIs and user-facing applications**. My work focuses on clarity, maintainability, and correctness — from authentication flows and data modeling on the backend to clean, intuitive interfaces on the frontend.
 
-<p align="left">👨‍💻 I'm Solomon Adewole, a passionate software developer with a knack for crafting elegant solutions to complex problems. Welcome to my GitHub profile.
-<br>
-  <br>💻 Frontend Expertise: <br>My journey revolves around creating stunning web applications that not only look great but also provide intuitive user interactions. With a solid grasp of HTML, CSS, and JavaScript, I bring designs to life using the power of React.js.
-  <br>
-<br>🌟 React Enthusiast: <br>React.js is my playground! From component-based architecture to state management, I relish in building scalable and maintainable React applications that exceed user expectations.
-    <br>
-  <br>📱 Flutter Aficionado: <br>Flutter's cross-platform capabilities have allowed me to venture into mobile app development with finesse. I have a knack for crafting pixel-perfect UIs and implementing complex features to deliver top-notch mobile experiences.
-    <br>
-  <br>🔧 Problem Solver:<br>Debugging and refining code is where I thrive. I enjoy the process of troubleshooting, ensuring that applications not only look fantastic but also function flawlessly.
-    <br>
-  <br>📚 Lifelong Learner:<br>In the ever-evolving world of technology, I'm committed to continuous learning. Exploring new libraries, staying updated with the latest frontend trends, and embracing challenges are all part of my growth journey.
-    <br>
-  <br>📬 Let's Connect: <br>I'm always excited to connect with fellow frontend enthusiasts, React aficionados, and Flutter enthusiasts. If you're passionate about technology and creating delightful user experiences, I'd love to hear from you!
+I enjoy working across the stack, but I’m particularly strong in:
+- Designing RESTful APIs
+- Implementing authentication and authorization correctly
+- Writing clean, readable, and testable code
+- Turning requirements into structured, working systems
 
-Feel free to reach out through 📧 Email: solomonwolemail@gmail.com, and let's discuss all things frontend and mobile development. Thanks for stopping by, and let's embark on a journey of innovation and code together! 🚀
+I value code that is easy to reason about, easy to extend, and secure by default.
 
+---
 
-<br><br>
-###
+## What I Work With
 
-<h3 align="left">🛠 Language and tools</h3>
+### Backend
+- ASP.NET Core (.NET 8 / .NET 9)
+- RESTful Web APIs
+- JWT Authentication & Authorization
+- Entity Framework Core
+- PostgreSQL
 
-###
+### Frontend
+- React / Next.js
+- TypeScript & JavaScript
+- HTML, CSS
+- Component-based UI development
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML5"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="CSS"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react js"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="material ui"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vs code logo"  />
-  <img width="12" />
+### Tools & Practices
+- Git & GitHub
+- Swagger / OpenAPI
+- Postman
+- Clean Architecture principles
+- Environment-based configuration & secret management
 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="andriod studio"  />
-  <img width="12" />
+---
 
+## What You’ll Find on This GitHub
 
-</div>
+- Backend APIs with real authentication flows
+- Ownership-based authorization logic
+- Paginated and well-structured endpoints
+- Clear README documentation for each project
+- Code written to be read and understood, not just to “work”
 
-###
+I treat personal projects the same way I’d treat professional work.
 
-<br><br>
-###
+---
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=solomonwole&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
+## Currently Learning / Improving
 
-###
+- API security best practices
+- Scalable backend design
+- Better system decomposition
+- Writing clearer technical documentation
 
+---
 
-###
+## Let’s Connect
+
+- LinkedIn: https://www.linkedin.com/in/solomon-adewole-b63a27246/
+- Email: solomonwolemail@gmail.com
+
+I’m always open to discussing software engineering, backend development, and real-world problem solving.
+
